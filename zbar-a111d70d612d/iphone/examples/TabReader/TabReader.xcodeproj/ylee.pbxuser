@@ -1,0 +1,149 @@
+// !$*UTF8*$!
+{
+	6BB34194141961220051FDE0 /* TabReader */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TabReader;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6BB34198141961400051FDE0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6BB34199141961400051FDE0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6BB341A7141962CA0051FDE0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC5D76EE1370EE8F0069AEF5 /* ResultsViewController.h */;
+		name = "ResultsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	6BB341A8141962CA0051FDE0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC5D76EF1370EE8F0069AEF5 /* ResultsViewController.m */;
+		name = "ResultsViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 30;
+	};
+	6BB341A9141962CA0051FDE0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DC5D76E61370EE8F0069AEF5 /* TabReaderAppDelegate.m */;
+	};
+	6BB341AA141962CA0051FDE0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC5D76E61370EE8F0069AEF5 /* TabReaderAppDelegate.m */;
+		name = "TabReaderAppDelegate.m: 57";
+		rLen = 3;
+		rLoc = 1575;
+		rType = 0;
+		vrLen = 656;
+		vrLoc = 952;
+	};
+	DC5D76C91370EE8D0069AEF5 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6BB34194141961220051FDE0 /* TabReader */;
+		activeTarget = DC5D76D11370EE8F0069AEF5 /* TabReader */;
+		codeSenseManager = 6BB34199141961400051FDE0 /* Code sense */;
+		executables = (
+			6BB34194141961220051FDE0 /* TabReader */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 337207586;
+			PBXWorkspaceStateSaveDate = 337207586;
+		};
+		perUserProjectItems = {
+			6BB341A7141962CA0051FDE0 /* PBXTextBookmark */ = 6BB341A7141962CA0051FDE0 /* PBXTextBookmark */;
+			6BB341A8141962CA0051FDE0 /* PBXTextBookmark */ = 6BB341A8141962CA0051FDE0 /* PBXTextBookmark */;
+			6BB341A9141962CA0051FDE0 /* PBXBookmark */ = 6BB341A9141962CA0051FDE0 /* PBXBookmark */;
+			6BB341AA141962CA0051FDE0 /* PBXTextBookmark */ = 6BB341AA141962CA0051FDE0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6BB34198141961400051FDE0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DC5D76D11370EE8F0069AEF5 /* TabReader */ = {
+		activeExec = 0;
+		executables = (
+			6BB34194141961220051FDE0 /* TabReader */,
+		);
+	};
+	DC5D76E61370EE8F0069AEF5 /* TabReaderAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 845}}";
+			sepNavSelRange = "{1575, 3}";
+			sepNavVisRange = "{952, 656}";
+		};
+	};
+	DC5D76EE1370EE8F0069AEF5 /* ResultsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 304}";
+		};
+	};
+	DC5D76EF1370EE8F0069AEF5 /* ResultsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 286}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{30, 275}";
+		};
+	};
+}

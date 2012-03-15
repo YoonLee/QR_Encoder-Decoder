@@ -1,0 +1,240 @@
+// !$*UTF8*$!
+{
+	6BB626BD1416BA270057D3E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9672D36413BD665E0002B0E2 /* DataMatrix.h */;
+		name = "DataMatrix.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	6BB626BE1416BA270057D3E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9672D36513BD665E0002B0E2 /* DataMatrix.mm */;
+		name = "DataMatrix.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1129;
+		vrLoc = 0;
+	};
+	6BB626BF1416BA270057D3E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9672D36613BD665E0002B0E2 /* QR_Encode.cpp */;
+		name = "QR_Encode.cpp: 1916";
+		rLen = 0;
+		rLoc = 60532;
+		rType = 0;
+		vrLen = 1698;
+		vrLoc = 8065;
+	};
+	6BB626C01416BA270057D3E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9672D36713BD665E0002B0E2 /* QR_Encode.h */;
+		name = "QR_Encode.h: 32";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 1791;
+		vrLoc = 2178;
+	};
+	6BB626C11416BA270057D3E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9672D36813BD665E0002B0E2 /* QREncoder-Prefix.pch */;
+		name = "QREncoder-Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 159;
+		vrLoc = 0;
+	};
+	6BB626C21416BA270057D3E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9672D36913BD665E0002B0E2 /* QREncoder.h */;
+		name = "QREncoder.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 0;
+	};
+	6BB626C31416BA270057D3E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9672D36A13BD665E0002B0E2 /* QREncoder.mm */;
+		name = "QREncoder.mm: 106";
+		rLen = 0;
+		rLoc = 4153;
+		rType = 0;
+		vrLen = 2438;
+		vrLoc = 1867;
+	};
+	6BB626C61416BA270057D3E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9672D36913BD665E0002B0E2 /* QREncoder.h */;
+		name = "QREncoder.h: 16";
+		rLen = 77;
+		rLoc = 380;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 0;
+	};
+	6BBC3DA11418277000D3B0B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9672D36A13BD665E0002B0E2 /* QREncoder.mm */;
+		name = "QREncoder.mm: 106";
+		rLen = 0;
+		rLoc = 4153;
+		rType = 0;
+		vrLen = 2438;
+		vrLoc = 1867;
+	};
+	6BBC3DA41418277000D3B0B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9672D36913BD665E0002B0E2 /* QREncoder.h */;
+		name = "QREncoder.h: 16";
+		rLen = 77;
+		rLoc = 380;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 0;
+	};
+	6BDB90AF140D576F0005B7EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9672D35E13BD662F0002B0E2 /* QRCodeEncoderObjectiveCAtGithub-Prefix.pch */;
+		name = "QRCodeEncoderObjectiveCAtGithub-Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 203;
+		vrLoc = 0;
+	};
+	6BFF1214140812DA0053A1A7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6BFF1215140812DA0053A1A7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9672D34E13BD662F0002B0E2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 9672D35613BD662F0002B0E2 /* qrencoder */;
+		breakpoints = (
+		);
+		codeSenseManager = 6BFF1215140812DA0053A1A7 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1241,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 337127276;
+			PBXWorkspaceStateSaveDate = 337127276;
+		};
+		perUserProjectItems = {
+			6BB626BD1416BA270057D3E9 /* PBXTextBookmark */ = 6BB626BD1416BA270057D3E9 /* PBXTextBookmark */;
+			6BB626BE1416BA270057D3E9 /* PBXTextBookmark */ = 6BB626BE1416BA270057D3E9 /* PBXTextBookmark */;
+			6BB626BF1416BA270057D3E9 /* PBXTextBookmark */ = 6BB626BF1416BA270057D3E9 /* PBXTextBookmark */;
+			6BB626C01416BA270057D3E9 /* PBXTextBookmark */ = 6BB626C01416BA270057D3E9 /* PBXTextBookmark */;
+			6BB626C11416BA270057D3E9 /* PBXTextBookmark */ = 6BB626C11416BA270057D3E9 /* PBXTextBookmark */;
+			6BB626C21416BA270057D3E9 /* PBXTextBookmark */ = 6BB626C21416BA270057D3E9 /* PBXTextBookmark */;
+			6BB626C31416BA270057D3E9 /* PBXTextBookmark */ = 6BB626C31416BA270057D3E9 /* PBXTextBookmark */;
+			6BB626C61416BA270057D3E9 /* PBXTextBookmark */ = 6BB626C61416BA270057D3E9 /* PBXTextBookmark */;
+			6BBC3DA11418277000D3B0B3 /* PBXTextBookmark */ = 6BBC3DA11418277000D3B0B3 /* PBXTextBookmark */;
+			6BBC3DA41418277000D3B0B3 /* PBXTextBookmark */ = 6BBC3DA41418277000D3B0B3 /* PBXTextBookmark */;
+			6BDB90AF140D576F0005B7EB /* PBXTextBookmark */ = 6BDB90AF140D576F0005B7EB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6BFF1214140812DA0053A1A7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9672D35613BD662F0002B0E2 /* qrencoder */ = {
+		activeExec = 0;
+	};
+	9672D35E13BD662F0002B0E2 /* QRCodeEncoderObjectiveCAtGithub-Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1085, 481}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 203}";
+		};
+	};
+	9672D36413BD665E0002B0E2 /* DataMatrix.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 721}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 270}";
+		};
+	};
+	9672D36513BD665E0002B0E2 /* DataMatrix.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 728}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1129}";
+		};
+	};
+	9672D36613BD665E0002B0E2 /* QR_Encode.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 25393}}";
+			sepNavSelRange = "{60532, 0}";
+			sepNavVisRange = "{8065, 1698}";
+			sepNavWindowFrame = "{{15, 4}, {981, 1051}}";
+		};
+	};
+	9672D36713BD665E0002B0E2 /* QR_Encode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 1980}}";
+			sepNavSelRange = "{721, 0}";
+			sepNavVisRange = "{2178, 1791}";
+			sepNavWindowFrame = "{{0, 4}, {1920, 1054}}";
+		};
+	};
+	9672D36813BD665E0002B0E2 /* QREncoder-Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 721}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 159}";
+		};
+	};
+	9672D36913BD665E0002B0E2 /* QREncoder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 967}}";
+			sepNavSelRange = "{380, 77}";
+			sepNavVisRange = "{0, 775}";
+			sepNavWindowFrame = "{{2880, 0}, {960, 1080}}";
+		};
+	};
+	9672D36A13BD665E0002B0E2 /* QREncoder.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 1625}}";
+			sepNavSelRange = "{4153, 0}";
+			sepNavVisRange = "{1867, 2438}";
+			sepNavWindowFrame = "{{0, 4}, {1920, 1054}}";
+		};
+	};
+}
